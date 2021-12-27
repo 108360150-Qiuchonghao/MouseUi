@@ -1,0 +1,10 @@
+D:\develop\VS2019\MouseUI\MouseUi\MouseUi\bin\Debug\MouseUi.exe.config
+D:\develop\VS2019\MouseUI\MouseUi\MouseUi\bin\Debug\MouseUi.exe
+D:\develop\VS2019\MouseUI\MouseUi\MouseUi\bin\Debug\MouseUi.pdb
+D:\develop\VS2019\MouseUI\MouseUi\MouseUi\obj\Debug\MouseUi.csprojAssemblyReference.cache
+D:\develop\VS2019\MouseUI\MouseUi\MouseUi\obj\Debug\MouseUi.Form1.resources
+D:\develop\VS2019\MouseUI\MouseUi\MouseUi\obj\Debug\MouseUi.Properties.Resources.resources
+D:\develop\VS2019\MouseUI\MouseUi\MouseUi\obj\Debug\MouseUi.csproj.GenerateResource.cache
+D:\develop\VS2019\MouseUI\MouseUi\MouseUi\obj\Debug\MouseUi.csproj.CoreCompileInputs.cache
+D:\develop\VS2019\MouseUI\MouseUi\MouseUi\obj\Debug\MouseUi.exe
+D:\develop\VS2019\MouseUI\MouseUi\MouseUi\obj\Debug\MouseUi.pdb
